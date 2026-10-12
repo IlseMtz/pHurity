@@ -1,0 +1,6 @@
+{
+  "name": "PHurity - Salud Íntima & Monitoreo de pH",
+  "description": "App de biotecnología para monitoreo del ciclo menstrual, tira reactiva de pH para panty íntima PHurity, comunidad femenina, asistente inteligente y directorio de clínicas en Aguascalientes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
